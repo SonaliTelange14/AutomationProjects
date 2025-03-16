@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>FirstCucumberProject</name>
+=======
+	<name>Java Code_StarAgile</name>
+>>>>>>> 97affb1 (Selenium Java Project)
 	<comment></comment>
 	<projects>
 	</projects>
